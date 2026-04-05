@@ -91,16 +91,3 @@ The project includes various visualizations such as:
 * Build a dashboard using Power BI or Tableau
 * Implement predictive analysis (sales forecasting)
 * Add more datasets for deeper insights
-
----
-
-## 👩‍💻 Author
-
-**Shravani Nagawade**
-BCA (AI & ML) Student | Aspiring Data Analyst
-
----
-
-## ⭐ Acknowledgement
-
-This project is part of my learning journey in Data Analytics and showcases my skills in data analysis and visualization.
